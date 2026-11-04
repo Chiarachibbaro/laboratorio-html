@@ -104,10 +104,10 @@ footer {
             border: 1px solid black;
         }
         caption {
-            font-weight:bold; color: blue;
+            font-weight:bold; color:crimson;
         }
         th {
-            background-color: yellow;
+            background-color:lightskyblue;
         }
         td {
             text-align: center;
