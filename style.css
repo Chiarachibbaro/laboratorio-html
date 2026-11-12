@@ -27,6 +27,7 @@ header h1 {
 
 header p {
     margin: 8px 0 0;
+
 }
 
 /* Spazio intorno al contenuto principale */
@@ -112,3 +113,20 @@ footer {
         td {
             text-align: center;
         }
+
+    .contenitore-farfalla {
+  width: 100px; 
+  margin: 20px auto; 
+}
+
+.farfalla {
+  width: 100%;
+  height: auto;
+  fill: darkorchid; 
+  transition: transform 0.3s ease;
+  cursor: pointer;
+}
+
+.farfalla:hover {
+  transform: scale(1.15) rotate(-8deg);
+}
