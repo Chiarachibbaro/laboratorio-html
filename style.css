@@ -122,7 +122,7 @@ footer {
 .farfalla {
   width: 100%;
   height: auto;
-  fill: darkorchid; 
+  fill: #9932cc; 
   transition: transform 0.3s ease;
   cursor: pointer;
 }
